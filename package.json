@@ -6,7 +6,7 @@
 	"scripts": {
 		"dev": "webpack serve",
 		"lint": "eslint . --ext .ts",
-		"prepare": "husky install"
+		"prepare": "husky"
 	},
 	"keywords": [],
 	"author": "",

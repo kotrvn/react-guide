@@ -5,7 +5,3 @@ const getSum = (a: number, b: number): number => {
 }
 
 getSum(5, 5)
-
-getSum(4, '4')
-
-console.log('sssss')
